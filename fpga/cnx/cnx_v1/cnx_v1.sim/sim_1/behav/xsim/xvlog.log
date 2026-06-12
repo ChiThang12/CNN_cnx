@@ -1,0 +1,25 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/cnx/src_cnx/PE_3x3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PE_3x3
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/cnx/src_cnx/addr_gen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module addr_gen
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/cnx/src_cnx/bram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bram
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/cnx/src_cnx/cache_ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cache_ctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/cnx/src_cnx/cnn_fsm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cnn_fsm
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/cnx/src_cnx/cnn_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cnn_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/cnx/src_cnx/maxpool_ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module maxpool_ctrl
+WARNING: [VRFC 10-8332] begin/end is required for generate-for in this mode of Verilog [D:/PROJECT_CNX/fpga/cnx/src_cnx/maxpool_ctrl.v:94]
+WARNING: [VRFC 10-8332] begin/end is required for generate-for in this mode of Verilog [D:/PROJECT_CNX/fpga/cnx/src_cnx/maxpool_ctrl.v:101]
+WARNING: [VRFC 10-8332] begin/end is required for generate-for in this mode of Verilog [D:/PROJECT_CNX/fpga/cnx/src_cnx/maxpool_ctrl.v:175]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/cnx/src_cnx/pe_array.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pe_array
+WARNING: [VRFC 10-8332] begin/end is required for generate-for in this mode of Verilog [D:/PROJECT_CNX/fpga/cnx/src_cnx/pe_array.v:106]
+WARNING: [VRFC 10-8332] begin/end is required for generate-for in this mode of Verilog [D:/PROJECT_CNX/fpga/cnx/src_cnx/pe_array.v:109]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/cnx/src_cnx/psum_fc_ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module psum_fc_ctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/cnx/src_cnx/cnn_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cnn_tb

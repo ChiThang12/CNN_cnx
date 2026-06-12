@@ -1,0 +1,15 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+D:/PROJECT_CNX/fpga/mnist_v2/mnist_v2/mnist_v2.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,,,,,,,
+D:/PROJECT_CNX/fpga/mnist_v2/src_n/PE.v,1781143064,verilog,,D:/PROJECT_CNX/fpga/mnist_v2/src_n/addr_gen.v,,PE,,,,,,,,
+D:/PROJECT_CNX/fpga/mnist_v2/src_n/addr_gen.v,1781143042,verilog,,D:/PROJECT_CNX/fpga/mnist_v2/src_n/bram.v,,addr_gen,,,,,,,,
+D:/PROJECT_CNX/fpga/mnist_v2/src_n/bram.v,1781143125,verilog,,D:/PROJECT_CNX/fpga/mnist_v2/src_n/cache_ctrl.v,,bram,,,,,,,,
+D:/PROJECT_CNX/fpga/mnist_v2/src_n/cache_ctrl.v,1781143047,verilog,,D:/PROJECT_CNX/fpga/mnist_v2/src_n/cnn_fsm.v,,cache_ctrl,,,,,,,,
+D:/PROJECT_CNX/fpga/mnist_v2/src_n/cnn_fsm.v,1781143037,verilog,,D:/PROJECT_CNX/fpga/mnist_v2/src_n/cnn_top.v,,cnn_fsm,,,,,,,,
+D:/PROJECT_CNX/fpga/mnist_v2/src_n/cnn_tb.v,1781143137,verilog,,,,cnn_tb,,,,,,,,
+D:/PROJECT_CNX/fpga/mnist_v2/src_n/cnn_top.v,1781143031,verilog,,D:/PROJECT_CNX/fpga/mnist_v2/src_n/maxpool_ctrl.v,,cnn_top,,,,,,,,
+D:/PROJECT_CNX/fpga/mnist_v2/src_n/maxpool_ctrl.v,1781143422,verilog,,D:/PROJECT_CNX/fpga/mnist_v2/src_n/pe_array.v,,maxpool_ctrl,,,,,,,,
+D:/PROJECT_CNX/fpga/mnist_v2/src_n/pe_array.v,1781143059,verilog,,D:/PROJECT_CNX/fpga/mnist_v2/src_n/psum_fc_ctrl.v,,pe_array,,,,,,,,
+D:/PROJECT_CNX/fpga/mnist_v2/src_n/psum_fc_ctrl.v,1781143075,verilog,,D:/PROJECT_CNX/fpga/mnist_v2/src_n/cnn_tb.v,,psum_fc_ctrl,,,,,,,,

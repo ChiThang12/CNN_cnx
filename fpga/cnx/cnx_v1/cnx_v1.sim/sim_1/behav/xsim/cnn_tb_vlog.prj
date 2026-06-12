@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../src_cnx/PE_3x3.v" \
+"../../../../../src_cnx/addr_gen.v" \
+"../../../../../src_cnx/bram.v" \
+"../../../../../src_cnx/cache_ctrl.v" \
+"../../../../../src_cnx/cnn_fsm.v" \
+"../../../../../src_cnx/cnn_top.v" \
+"../../../../../src_cnx/maxpool_ctrl.v" \
+"../../../../../src_cnx/pe_array.v" \
+"../../../../../src_cnx/psum_fc_ctrl.v" \
+"../../../../../src_cnx/cnn_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,20 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/mnist_v2/src_n/PE.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PE
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/mnist_v2/src_n/addr_gen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module addr_gen
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/mnist_v2/src_n/bram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bram
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/mnist_v2/src_n/cache_ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cache_ctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/mnist_v2/src_n/cnn_fsm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cnn_fsm
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/mnist_v2/src_n/cnn_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cnn_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/mnist_v2/src_n/maxpool_ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module maxpool_ctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/mnist_v2/src_n/pe_array.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pe_array
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/mnist_v2/src_n/psum_fc_ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module psum_fc_ctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/mnist_v2/src_n/cnn_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cnn_tb

@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/mnis/src/PE.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PE
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/mnis/src/bram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bram
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/mnis/src/cnn.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cnn
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/PROJECT_CNX/fpga/mnis/src/cnn_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cnn_tb

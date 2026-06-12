@@ -1,0 +1,9 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+D:/PROJECT_CNX/fpga/mnis/mnis.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,,,,,,,
+D:/PROJECT_CNX/fpga/mnis/src/PE.v,1781142385,verilog,,D:/PROJECT_CNX/fpga/mnis/src/bram.v,,PE,,,,,,,,
+D:/PROJECT_CNX/fpga/mnis/src/bram.v,1781142369,verilog,,D:/PROJECT_CNX/fpga/mnis/src/cnn.v,,bram,,,,,,,,
+D:/PROJECT_CNX/fpga/mnis/src/cnn.v,1781142645,verilog,,D:/PROJECT_CNX/fpga/mnis/src/cnn_tb.v,,cnn,,,,,,,,
+D:/PROJECT_CNX/fpga/mnis/src/cnn_tb.v,1781142466,verilog,,,,cnn_tb,,,,,,,,

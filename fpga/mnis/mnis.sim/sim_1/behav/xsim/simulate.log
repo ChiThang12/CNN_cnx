@@ -1,0 +1,15 @@
+Time resolution is 1 ps
+
+============ Done ===================
+
+
+Simulation time = 453076.00 ns
+
+
+======== Check start ================
+
+Inference result =  39
+
+PASS!
+
+$finish called at time : 453106500 ps : File "D:/PROJECT_CNX/fpga/mnis/src/cnn_tb.v" Line 198

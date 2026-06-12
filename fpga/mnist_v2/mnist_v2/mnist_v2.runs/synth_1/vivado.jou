@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Thu Jun 11 09:06:24 2026
+# Process ID: 8828
+# Current directory: D:/PROJECT_CNX/fpga/mnist_v2/mnist_v2/mnist_v2.runs/synth_1
+# Command line: vivado.exe -log maxpool_ctrl.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source maxpool_ctrl.tcl
+# Log file: D:/PROJECT_CNX/fpga/mnist_v2/mnist_v2/mnist_v2.runs/synth_1/maxpool_ctrl.vds
+# Journal file: D:/PROJECT_CNX/fpga/mnist_v2/mnist_v2/mnist_v2.runs/synth_1\vivado.jou
+# Running On: ChiThang, OS: Windows, CPU Frequency: 3294 MHz, CPU Physical cores: 16, Host memory: 16434 MB
+#-----------------------------------------------------------
+source maxpool_ctrl.tcl -notrace
